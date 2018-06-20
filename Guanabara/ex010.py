@@ -1,5 +1,4 @@
 reais = float(input('Digite quanto dinheiro você tem: '))
-dolar = 3.27
-compra = reais / dolar
+dolar = reais / 3.27
 
-print('Com R${} você pode comprar ${}' .format(reais, compra))
+print('Com R${} você pode comprar ${}' .format(reais, dolar))
