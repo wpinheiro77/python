@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b75649-168a-42ff-abbc-8f315d04e9e1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Guanabara/.idea/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/Aula import emoji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/Aula random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/ex014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/ex015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/ex017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/ex018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/ex019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Guanabara/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estudos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Estudos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guanabara/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Guanabara/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guanabara/Aula strings01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guanabara/ex022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guanabara/ex023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guanabara/ex024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guanabara/ex025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guanabara/ex026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guanabara/ex027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +20,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex019.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Guanabara/ex019.py">
+      <file leaf-file-name="ex024.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Guanabara/ex024.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ex025.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Guanabara/ex025.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ex026.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Guanabara/ex026.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ex027.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Guanabara/ex027.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ex022.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Guanabara/ex022.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="51">
+              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -60,6 +75,13 @@
         <option value="$PROJECT_DIR$/Guanabara/ex017.py" />
         <option value="$PROJECT_DIR$/Guanabara/ex018.py" />
         <option value="$PROJECT_DIR$/Guanabara/ex019.py" />
+        <option value="$PROJECT_DIR$/Guanabara/Aula strings01.py" />
+        <option value="$PROJECT_DIR$/Guanabara/ex023.py" />
+        <option value="$PROJECT_DIR$/Guanabara/ex024.py" />
+        <option value="$PROJECT_DIR$/Guanabara/ex025.py" />
+        <option value="$PROJECT_DIR$/Guanabara/ex026.py" />
+        <option value="$PROJECT_DIR$/Guanabara/ex027.py" />
+        <option value="$PROJECT_DIR$/Guanabara/ex022.py" />
       </list>
     </option>
   </component>
@@ -121,8 +143,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex019">
-    <configuration name="Aula import emoji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex022">
+    <configuration name="Aula strings01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,13 +156,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guanabara/Aula import emoji.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guanabara/Aula strings01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex016" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex009" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guanabara/ex016.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guanabara/ex009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,24 +198,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ex018" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Guanabara" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guanabara/ex018.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="ex019" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,20 +216,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="ex022" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Guanabara" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guanabara/ex022.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Aula import emoji" />
-      <item itemvalue="Python.ex016" />
       <item itemvalue="Python.ex017" />
-      <item itemvalue="Python.ex018" />
       <item itemvalue="Python.ex019" />
+      <item itemvalue="Python.ex009" />
+      <item itemvalue="Python.Aula strings01" />
+      <item itemvalue="Python.ex022" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex022" />
+        <item itemvalue="Python.Aula strings01" />
+        <item itemvalue="Python.ex009" />
         <item itemvalue="Python.ex019" />
         <item itemvalue="Python.ex017" />
-        <item itemvalue="Python.ex016" />
-        <item itemvalue="Python.ex018" />
-        <item itemvalue="Python.Aula import emoji" />
       </list>
     </recent_temporary>
   </component>
@@ -269,19 +291,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Guanabara/ex013.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Guanabara/ex007.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Guanabara/ex008.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Guanabara/ex009.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Guanabara/ex010.py">
@@ -400,7 +409,71 @@
     <entry file="file://$PROJECT_DIR$/Guanabara/ex019.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex001.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex002.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex003.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex004.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex005.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex006.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex008.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/Aula strings01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex023.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex024.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex025.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex026.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex027.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guanabara/ex022.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
         </state>
       </provider>
     </entry>
